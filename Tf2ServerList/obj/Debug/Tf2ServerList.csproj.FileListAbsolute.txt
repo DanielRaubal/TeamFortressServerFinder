@@ -1,0 +1,13 @@
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\Tf2ServerList.exe.config
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\Tf2ServerList.exe
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\Tf2ServerList.pdb
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\HtmlAgilityPack.dll
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\HtmlAgilityPack.pdb
+E:\Tf2ServerList\Tf2ServerList\bin\Debug\HtmlAgilityPack.xml
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.csproj.AssemblyReference.cache
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.Form1.resources
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.Properties.Resources.resources
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.csproj.GenerateResource.cache
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.csproj.CoreCompileInputs.cache
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.exe
+E:\Tf2ServerList\Tf2ServerList\obj\Debug\Tf2ServerList.pdb
